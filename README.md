@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ECE at IIIT Nagpur
 - 💞️ I’m looking to collaborate on App Development Projects in Flutter
 - 📫 How to reach me Linked in : https://www.linkedin.com/in/vrushaket-patwardhan-9560b71a5/
+-                     Gamil:  vrushaket4545@gmail.com
 
 <!---
 VrushaketPatwardhan/VrushaketPatwardhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
